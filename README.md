@@ -6,9 +6,9 @@ This project contains SQL analysis for Kultra Mega Stores (KMS), focused on thei
 ### Dataset Overview
 
 The dataset includes:
-- Order details: sales, shipping cost, shipping mode, and priority
-- Customer information: names, order totals
-- Timeframe: 2009–2012
+- Order details: sales, shipping cost, shipping mode, and priority.
+- Customer information: names, order totals.
+- Timeframe: 2009–2012.
 
 ### File:
 
@@ -70,7 +70,7 @@ order by Profit desc;
 
 **5. Which small business customer had the highest sales?**
 
-'''
+```
 select top 1 (Customer_Name),
        Customer_Segment,  
        Sales
@@ -79,7 +79,8 @@ where Customer_Segment = 'Small Business'
 order by Sales desc;
 ```
 
-**6. How can KMS increase revenue from the bottom 10 customers**
+## Recommendations
+**How can KMS increase revenue from the bottom 10 customers**
 
 ```
 select top 10 Customer_Name,
@@ -91,16 +92,16 @@ fROM [dbo].[KMS Sql Case Study]
 order by Profit
 ```
 
-## Recommendation
--- reduce shipping cost and unit price
 
---increase discount and advert
+-  reduce shipping cost and unit price
+
+- increase discount and advert
 
 
 **Is shipping cost aligned with order priority?**
 
 ```
-SELECt ship_mode, 
+Select ship_mode, 
      		sum (shipping_cost) as shipping_cost_per_shipping_mode, 
 		     count (order_priority) as No_of_Order_priority
 from [KMS Sql Case Study]
@@ -121,15 +122,3 @@ Express Air shipping mode has the profit of 1,060,144.61 compared to Delivery Tr
 Therefore the company made appropriate spending.
 
 
-
-## ✅ Usage
-
-1. Import the CSV data into your SQL environment.
-2. Run queries in the sql/ directory.
-
-
-## 📌 Status
-
-✔ Queries written  
-✔ Reports documented  
-✔ Project ready for submission

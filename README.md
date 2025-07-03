@@ -19,8 +19,8 @@ The dataset includes:
 
 ### 🛠 Tools Used
 
-- SQL (SQL Server Management Studio) [download]{https://www.microsoft.com/en/sql-server/sql-server-downloads}
-- Excel [download]{https://microsoft-excel.en.softonic.com/download}
+- SQL (SQL Server Management Studio) [download](https://www.microsoft.com/en/sql-server/sql-server-downloads)
+- Excel [download](https://microsoft-excel.en.softonic.com/download)
 
 ## Analysis
 

@@ -10,7 +10,9 @@ The dataset includes:
 - Customer information: names, order totals
 - Timeframe: 2009–2012
 
-📁 File: data/kms_orders_2009_2012.xlsx
+📁 File:[ data/kms_orders_2009_2012.xlsx
+](https://github.com/OyewaleA/DSA-Capstone-ase-Study-2-Kultra-Mega-Stores-Inventory/blob/3e0519cdce85ff844df1ae714815c13d39d21bee/KMS%20Sql%20Case%20Study.csv)
+
 
 ## 📊 Business Questions Answered
 

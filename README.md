@@ -1,7 +1,7 @@
 # DSA-Capstone-ase-Study-2-Kultra-Mega-Stores-Inventory
 
 ## Table of Contents
-* [Description](##description)
++ [Description](#description)
 * [Dataset Overview](Dataset-Overview)
 * [File](File)
 * [Tools Used](Tools-Used)
@@ -11,7 +11,7 @@
 ## Description
 This project contains SQL analysis for Kultra Mega Stores (KMS), focused on their **Abuja division** from 2009–2012. As a Business Intelligence Analyst, your role is to provide actionable insights based on historical order data.
 
-### Dataset Overview
+## Dataset Overview
 
 The dataset includes:
 - Order details: sales, shipping cost, shipping mode, and priority.

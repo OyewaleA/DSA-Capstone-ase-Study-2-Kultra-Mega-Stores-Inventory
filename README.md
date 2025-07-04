@@ -2,11 +2,11 @@
 
 ## Table of Contents
 + [Description](#description)
-* [Dataset Overview](Dataset-Overview)
-* [File](File)
-* [Tools Used](Tools-Used)
-* [Analysis](Analysis)
-* [Recommendations](Recommendations)
++ [Dataset Overview](#Dataset-Overview)
++ [File](#File)
++ [Tools Used](#Tools-Used)
++ [Analysis](#Analysis)
++ [Recommendations](#Recommendations)
 
 ## Description
 This project contains SQL analysis for Kultra Mega Stores (KMS), focused on their **Abuja division** from 2009–2012. As a Business Intelligence Analyst, your role is to provide actionable insights based on historical order data.
@@ -18,14 +18,14 @@ The dataset includes:
 - Customer information: names, order totals.
 - Timeframe: 2009–2012.
 
-### File:
+## File:
 
 [ data/kms_orders_2009_2012.xlsx
 ](https://github.com/OyewaleA/DSA-Capstone-ase-Study-2-Kultra-Mega-Stores-Inventory/blob/3e0519cdce85ff844df1ae714815c13d39d21bee/KMS%20Sql%20Case%20Study.csv)
 
 [order status](https://github.com/OyewaleA/DSA-Capstone-ase-Study-2-Kultra-Mega-Stores-Inventory/blob/main/Order_Status.csv)
 
-### 🛠 Tools Used
+## 🛠 Tools Used
 
 - SQL (SQL Server Management Studio) [download](https://www.microsoft.com/en/sql-server/sql-server-downloads)
 - Excel [download](https://microsoft-excel.en.softonic.com/download)

@@ -25,7 +25,7 @@ The dataset includes:
 
 [order status](https://github.com/OyewaleA/DSA-Capstone-ase-Study-2-Kultra-Mega-Stores-Inventory/blob/main/Order_Status.csv)
 
-## 🛠 Tools Used
+##  Tools Used
 
 - SQL (SQL Server Management Studio) [download](https://www.microsoft.com/en/sql-server/sql-server-downloads)
 - Excel [download](https://microsoft-excel.en.softonic.com/download)

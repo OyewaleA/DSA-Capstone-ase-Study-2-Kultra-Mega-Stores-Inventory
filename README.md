@@ -1,7 +1,7 @@
 # DSA-Capstone-ase-Study-2-Kultra-Mega-Stores-Inventory
 
 ## Table of Contents
-* [Description](description)
+* [Description](#description)
 * [Dataset Overview](Dataset-Overview)
 * [File](File)
 * [Tools Used](Tools-Used)
